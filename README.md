@@ -11,7 +11,7 @@ Understanding how LLMs work from scratch
 #### Builds foundational intuition for LLMs from scratch, especially how text is converted into meaningful vector representations for downstream tasks.
 
 ## Chapter_3:
-##### Explains the internal working of a causal Large Language Model (LLM), including how logits and probabilities are computed for next-token prediction.
-##### Demonstrates different decoding strategies such as greedy decoding, temperature scaling, top-k, and top-p (nucleus sampling).
-##### Shows how decoding parameters influence output quality, diversity, and determinism.
-##### Provides practical intuition on how text generation works inside an LLM, beyond high-level API usage.
+#### Explains the internal working of a causal Large Language Model (LLM), including how logits and probabilities are computed for next-token prediction.
+#### Demonstrates different decoding strategies such as greedy decoding, temperature scaling, top-k, and top-p (nucleus sampling).
+#### Shows how decoding parameters influence output quality, diversity, and determinism.
+#### Provides practical intuition on how text generation works inside an LLM, beyond high-level API usage.
