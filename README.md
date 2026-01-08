@@ -16,6 +16,14 @@ Understanding how LLMs work from scratch
 #### Shows how decoding parameters influence output quality, diversity, and determinism.
 #### Provides practical intuition on how text generation works inside an LLM, beyond high-level API usage.
 
+## Chapter_5:
+#### This notebook provides a comprehensive guide to text clustering and topic modeling. Here are some key takeaways:
+#### Text Embedding: Learn how to transform textual data (like abstracts) into numerical representations using models such as SentenceTransformer.
+#### Dimensionality Reduction: Understand the application of techniques like UMAP to reduce the complexity of high-dimensional embeddings, which is crucial for both clustering and visualization.
+#### Clustering: See how to apply clustering algorithms, specifically HDBSCAN, to group similar text documents based on their embeddings.
+#### Topic Modeling with BERTopic: Discover how to use BERTopic, a modular framework, to perform end-to-end topic modeling by integrating embedding, dimensionality reduction, and clustering.
+#### Data Visualization: Explore methods for visualizing clusters and topics, including static plots with Matplotlib and interactive visualizations provided by BERTopic.
+
 ## Chapter_6:
 #### This notebook provides a comprehensive introduction to prompt engineering techniques using the Phi-3-mini language model. Here's what someone can learn from it:
 ##### Setting up an LLM Pipeline: How to load a pre-trained language model (microsoft/Phi-3-mini-4k-instruct) and its tokenizer, then set up a text generation pipeline using the transformers library.
